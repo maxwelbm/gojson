@@ -126,8 +126,7 @@ Related Work
 ------------
 
 - github.com/str1ngs/jflect
-
--github.com/ChimeraCoder/gojson
+- github.com/ChimeraCoder/gojson
 
 License
 ----------

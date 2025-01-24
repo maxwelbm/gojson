@@ -3,8 +3,13 @@ gojson
 
 gojson generates go struct definitions from json or yaml documents.
 
-Example
+
+
+
+Example 
 ----------
+
+Example case use: https://github.com/maxwelbm/nvim/blob/main/lua/modules/gojson/init.lua
 
 ```sh
 $ curl -s https://api.github.com/repos/maxwelbm/gojson | gojson -name=Repository
